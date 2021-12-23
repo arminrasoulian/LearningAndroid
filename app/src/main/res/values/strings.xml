@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnDIWithCoin</string>
+    <string name="fetch_data_from_api">Fetch data from API</string>
+    <string name="query_title">Please enter query</string>
+</resources>
